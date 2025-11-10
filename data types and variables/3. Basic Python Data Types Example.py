@@ -8,4 +8,4 @@ is_student = False # bool
 print('Name:', name)
 print('Age:', age)
 print('Height:', height_meters)
-print('Are you a studnet?', is_student)
+print('Are you a student?', is_student)
