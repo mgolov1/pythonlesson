@@ -25,4 +25,4 @@ print(f"The word with the suffix is: '{suffix}':{word_with_suffix}")
 print(word.upper())
 
 # Replace a character in the word
-print(word.replace("e", "a")) # Output: Axice
+print(word.replace("e", "a"))
