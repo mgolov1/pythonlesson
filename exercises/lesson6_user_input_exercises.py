@@ -73,3 +73,11 @@ print(f"Result: {result}")
 days = int(input("Enter number of days: "))
 hours = days * 24
 print(f"{days} is equal to {hours} hours")
+
+# 10. Mad Libs
+# Create a simple Mad Libs game. Ask the user for an adjective, a noun, and a verb, then use these inputs to complete a pre-written sentence.
+
+adjective = input("Enter an adjective: ")
+noun = input("Enter a noun: ")
+verb = input("Enter a verb: ")
+print(f"{adjective} {noun} {verb} over the lazy dog.")
