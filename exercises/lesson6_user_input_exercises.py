@@ -81,3 +81,12 @@ adjective = input("Enter an adjective: ")
 noun = input("Enter a noun: ")
 verb = input("Enter a verb: ")
 print(f"{adjective} {noun} {verb} over the lazy dog.")
+
+# 11. Story Generator
+# Write a program that requests a character name, a place, and an object, then combines these elements into a short story.
+
+character = input("Enter the name of a character: ")
+place = input("Enter a place: ")
+object = input("Enter an object: ")
+print(f"Once upon a time, {character} found a magical {object} in {place}.")
+print(f"The {object} granted {character} three wishes, changing their live forever.")
